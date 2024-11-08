@@ -1,0 +1,2 @@
+Ceci est le contenu d'un fichier hautement confidentiel!
+Bon. Si ce texte s'affiche dans ta console, t'as réussi!

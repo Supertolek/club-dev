@@ -1,0 +1,7 @@
+<quizz>
+    <quizz_question type="choix_multiples" question="Qu'est-ce que HTML?">
+        <option valid="false">Un langage de programmation</option>
+        <option valid="true">Un langage de balisage</option>
+        <option valid="false">Un plat Italien</option>
+    </quizz_question>
+</quizz>
